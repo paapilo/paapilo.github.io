@@ -451,9 +451,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-",
-          title: '',
-          description: "",
+          section: "News",},{id: "projects-the-sage-words-a-collection-of-quotations-by-nigerian-islamic-scholars",
+          title: 'The Sage Words: A Collection of Quotations by Nigerian Islamic Scholars',
+          description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-3-with-very-long-name",
