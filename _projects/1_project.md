@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Sage Words: A Collection of Quotations by Nigerian Islamic Scholars
+title: 'The Sage Words: A Collection of Quotations by Nigerian Islamic Scholars'
 description: with background image
 img: assets/img/12.jpg
 importance: 1
